@@ -17,3 +17,8 @@ CREATE TABLE `usuarios` (
 DEFAULT CHARSET=utf8mb4 
 COLLATE=utf8mb4_0900_ai_ci;
 ```
+## Screenshots
+### Cadastro de novo usuário
+![novo-usuario](https://user-images.githubusercontent.com/80790598/201793781-136b17c0-d331-486c-902e-7a4ead140ff6.png)
+### Consulta de usuários cadastrados 
+![consultar](https://user-images.githubusercontent.com/80790598/201793916-8c6b35c5-5ff4-4b0c-b21e-630c78d0cc8d.png)
